@@ -1,6 +1,6 @@
 ![image](https://github.com/BrettBass/weather/assets/62232561/67f85c4a-ae38-4929-a83f-62ff58a27cde)
 # Description
-Simple neovim weather plugin that fetches current weather information from wttr.in and displays it to the user.
+Simple neovim weather plugin that fetches current weather information from [wttr.in](https://wttr.in) and displays it to the user.
 
 # Installation
 1. Clone or download the repository to your Neovim config directory (usually `~/.config/nvim`)
